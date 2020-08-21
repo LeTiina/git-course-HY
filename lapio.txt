@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 BBBBBBBBBBBBBBBBBBBB
+=======
+AAAAAAAAAAAAA
+>>>>>>> 2ca7db8cac850586334ffa8cccc4ea75c253aad6
