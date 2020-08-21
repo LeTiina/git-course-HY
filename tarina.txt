@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 Muokattu 21.8. Tassa opetellaan kayttamaan Gittia. La la la. 
+=======
+Tassa opetellaan kayttamaan Gittia. La la la. 
+Tanne muokkaus kanssa 22.8.
+>>>>>>> Stashed changes
